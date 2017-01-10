@@ -1,8 +1,5 @@
 SolutionBot application
 
-This app is served to answer user's questions from the input and retrieve date from wolframalpha api and wikipedia.
+This app is served to answer user's questions from the input and retrieve data from wolframalpha and wikipedia APIs.
 
-To run this program simply type:
-
-- python run.py
 
