@@ -1,1 +1,0 @@
-Wolfram_API = "6JYVT2-Q96H4QYQJR"
